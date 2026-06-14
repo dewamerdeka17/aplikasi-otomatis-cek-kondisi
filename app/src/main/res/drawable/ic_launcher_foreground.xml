@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Glow or shadow of the phone -->
+    <path
+        android:fillColor="#1CFFFFFF"
+        android:pathData="M34,20h40c4.4,0 8,3.6 8,8v50c0,4.4 -3.6,8 -8,8H34c-4.4,0 -8,-3.6 -8,-8V28c0,-4.4 3.6,-8 8,-8z" />
+
+    <!-- Smartphone Body -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M38,22h32c3.3,0 6,2.7 6,6v46c0,3.3 -2.7,6 -6,6H38c-3.3,0 -6,-2.7 -6,-6V28c0,-3.3 2.7,-6 6,-6z" />
+
+    <!-- Screen Glass Area -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,26h38v36H35z" />
+
+    <!-- Home Button/Indicator line -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M48,74h12v2H48z" />
+
+    <!-- Ear Piece Speaker -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M50,24h8v1.5H50z" />
+
+    <!-- Diagnostic Badge Circle on top right of the phone screen -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 70 38 A 14 14 0 1 1 70 37.99 A 14 14 0 1 1 70 38" />
+
+    <!-- Checkmark Tick (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,38 l3.5,3.5 l7.5,-7.5 l-1.5,-1.5 l-6,6 l-2,-2 z" />
+
+</vector>

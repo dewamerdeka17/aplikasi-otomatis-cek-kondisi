@@ -1,0 +1,6 @@
+{
+  "name": "HPCheck Pro",
+  "description": "Aplikasi pengecekan kondisi software, hardware, dan kesehatan HP bekas untuk penjual, pembeli, dan teknisi konter Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
